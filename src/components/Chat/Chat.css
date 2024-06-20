@@ -1,0 +1,16 @@
+.chat {
+    
+}
+
+.chat-group {
+    padding: 8px;
+}
+
+.chat-message {
+    padding: 8px;
+    border: 1px solid coral;
+}
+
+.chat-message + .chat-message {
+    margin-top: 8px;
+}
